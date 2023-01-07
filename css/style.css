@@ -14,7 +14,7 @@
 
 .banner-section{
     text-align: right;
-    padding: 180px 200px 150px 700px;
+    padding: 180px 120px 150px 700px;
 
 }
 
@@ -39,3 +39,47 @@
     font-weight: 600;
     border-radius: 5px;
 }
+
+
+main{
+    /* border: 1px solid red; */
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* My failures of previous year  */
+
+.failures-section{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    gap: 90px;
+    
+}
+
+.failures-description{
+    margin-right: 60px;
+}
+
+.failures-description h1{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700px;
+    margin-bottom: 24px;
+    
+}
+
+.failures-description > p{
+    color: #444343;
+    margin-bottom: 17px;
+}
+
+.failures-description-icon p{
+    color: #444343;
+    margin-bottom: 8px;
+}
+.failures-description-icon img{
+    height: 12px;
+    padding-right: 8px;
+
+}
+
