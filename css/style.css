@@ -121,6 +121,32 @@ main {
 }
 
 
+/* Awlays keep a positive mindset  */
 
+.mindset-section{
+    background-image:url(../images/gradient2.png),  url(../images/watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+   
 
+}
 
+.mindset-section{
+    padding: 60px 600px 60px 60px;
+
+}
+
+.mindset-section h1{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.mindset-section button{
+    padding: 20px 35px;
+    border: none;
+    border-radius: 5px;
+    color: #F15B22;
+    font-size: 18px;
+    font-weight: 600;
+}
