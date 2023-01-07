@@ -150,3 +150,75 @@ main {
     font-size: 18px;
     font-weight: 600;
 }
+
+
+
+/* footer section  */
+
+footer{
+    
+    background-color: #151414;
+}
+
+.footer-section{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-section-left{
+    padding-right:  300px;
+    margin: 130px 0;
+}
+
+.footer-section-left h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.footer-section-left p{
+    color: white;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 24px;
+}
+
+.footer-icon img{
+    margin-right: 15px;
+}
+
+/* right side  */
+
+.footer-section-right{
+    margin: 130px 0;
+}
+.footer-section-right #email{
+    padding: 20px 120px 20px 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #151414;
+
+
+}
+
+.footer-section-right h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+
+}
+
+.footer-btn{
+    padding: 20px 35px;
+    border: none;
+    border-radius: 5px;
+    color: #F15B22;
+    font-size: 18px;
+    font-weight: 600;
+
+}
