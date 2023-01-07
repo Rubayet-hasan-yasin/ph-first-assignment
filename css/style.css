@@ -222,3 +222,68 @@ footer{
     font-weight: 600;
 
 }
+
+
+
+/* what i do  section */
+
+.what-i-do{
+    background-color: #171c23;
+    
+}
+
+.my-services{
+    color: rgb(255, 255, 255);
+
+}
+
+.what-i-do h3{
+    color:#099879;
+    font-size: 16px;
+    padding: 100px 0 10px 100px;
+    font-weight: 100;
+
+}
+
+.what-i-do h1{
+    color: #FFFFFF;
+    padding: 0px 0 20px 100px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.what-i-do-box{
+    display: flex;
+    gap: 220px;
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+.work-status{
+    background-color: #21272f;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    
+    
+}
+
+.work-status img{
+    
+    display: block;
+    margin: 0 auto;
+
+}
+
+.work-status-title{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin: 15px 0;
+}
+
+.work-description{
+    color: #a2a3a8;
+    text-align: center;
+
+}
